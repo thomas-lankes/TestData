@@ -1,0 +1,77 @@
+[
+  {
+    "id": "0",
+    "content": {
+      "contentType": "TEXT",
+      "content": "hello world: text"
+    },
+    "options": [
+      {
+        "optionText": "option1",
+        "nextStoryById": "1"
+      },
+      {
+        "optionText": "option2",
+        "nextStoryById": "2"
+      }
+    ],
+    "geoObject": {
+      "m": {
+        "latitude": 48.137224,
+        "longitude": 11.575507
+      },
+      "r": 100.0,
+      "id": "19e2450f-7b2c-43f1-ae09-f5e509eeb43c"
+    }
+  },
+  {
+    "id": "1",
+    "content": {
+      "contentType": "AUDIO",
+      "content": "hello world: audio"
+    },
+    "options": [
+      {
+        "optionText": "option3",
+        "nextStoryById": "3"
+      },
+      {
+        "optionText": "option4",
+        "nextStoryById": "4"
+      }
+    ],
+    "geoObject": {
+      "m": {
+        "latitude": 48.133445,
+        "longitude": 11.566683
+      },
+      "r": 100.0,
+      "id": "4c4f22e1-5b23-4c48-af42-25dde6e2dc62"
+    }
+  },
+  {
+    "id": "2",
+    "content": {
+      "contentType": "VIDEO",
+      "content": "hello world: video"
+    },
+    "options": [
+      {
+        "optionText": "option5",
+        "nextStoryById": "5"
+      },
+      {
+        "optionText": "option6",
+        "nextStoryById": "6"
+      }
+    ],
+    "geoObject": {
+      "m": {
+        "latitude": 48.135101,
+        "longitude": 11.581699
+      },
+      "r": 100.0,
+      "id": "1d2a326e-d782-4e62-9ec4-ebf09ebaae95"
+    }
+  }
+]
