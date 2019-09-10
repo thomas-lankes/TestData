@@ -16,12 +16,13 @@
       }
     ],
     "geoObject": {
+      "typ": "CIRCULAR",
       "m": {
         "latitude": 48.137224,
         "longitude": 11.575507
       },
       "r": 100.0,
-      "id": "19e2450f-7b2c-43f1-ae09-f5e509eeb43c"
+      "id": "dc9aa43d-e7ff-4373-8b69-57f778162a11"
     }
   },
   {
@@ -41,12 +42,13 @@
       }
     ],
     "geoObject": {
+      "typ": "CIRCULAR",
       "m": {
         "latitude": 48.133445,
         "longitude": 11.566683
       },
       "r": 100.0,
-      "id": "4c4f22e1-5b23-4c48-af42-25dde6e2dc62"
+      "id": "c83d6a65-0beb-47af-a8fc-dab469ba742d"
     }
   },
   {
@@ -66,12 +68,13 @@
       }
     ],
     "geoObject": {
+      "typ": "CIRCULAR",
       "m": {
         "latitude": 48.135101,
         "longitude": 11.581699
       },
       "r": 100.0,
-      "id": "1d2a326e-d782-4e62-9ec4-ebf09ebaae95"
+      "id": "68d69efd-34d6-4ef9-8541-dbb7886b4d97"
     }
   }
 ]
