@@ -18,8 +18,8 @@
     "geoObject": {
       "typ": "CIRCULAR",
       "m": {
-        "latitude": 48.137224,
-        "longitude": 11.575507
+        "latitude": 48.0966509,
+        "longitude": 11.495082
       },
       "r": 100.0,
       "id": "dc9aa43d-e7ff-4373-8b69-57f778162a11"
